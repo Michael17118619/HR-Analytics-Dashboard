@@ -73,3 +73,9 @@ The dashboard provides:
 ## *Requirements*  
 - *Tableau Desktop* (to open and explore the Tableau workbook).  
 - Basic understanding of Tableau for navigation and interaction with the dashboards.
+
+- ## *Connect With Me*  
+- *LinkedIn*: [linkedin.com/in/michael-orekoya](https://www.linkedin.com/in/michael-orekoya)  
+- *GitHub*: [github.com/Michael17118619](https://github.com/Michael17118619)  
+- *Email*: michaelorekoya1711@aol.com  
+- *Tableau Public*: [View My Tableau Projects](https://public.tableau.com/app/profile/michael.orekoya/vizzes)
